@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "5491176211025"
 global.confirmCode = ""
 global.authFile = `MysticSession`;
 
@@ -26,7 +26,7 @@ global.prems = [];
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'BrunoSobrino';
+global.author = 'JUANCHO';
 global.wm = 'The Mystic - Bot';
 global.titulowm = 'Mystic Bot';
 global.titulowm2 = `Mystic Bot`
@@ -59,7 +59,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '5491176211025';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
